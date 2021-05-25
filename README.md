@@ -34,7 +34,7 @@ Presentations may fall into any of the following categories
 # Organizers
 **Workshop Co-organizers:**
 * Samantha Jeschonek (Collaborative Drug Discovery)
-* Aisyah Yu Lin (FDA, National Center for Ontological Research)
+* Aisyah Yu Lin (National Institutes of Health)
 * Hande Kucuk McGinty (University of Ohio)
 
 **Workshop Co-chairs**
