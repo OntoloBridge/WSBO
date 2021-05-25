@@ -29,7 +29,7 @@ Presentations may fall into any of the following categories
 * Developing and maintaining biomedical ontologies
 * End-user interaction with ontologies
 * Ontology mapping
-* Tools and technologies supporting ontologies
+* Tools, technologies, and repositories supporting ontologies
 
 # Organizers
 **Workshop Co-organizers:**
