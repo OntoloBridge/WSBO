@@ -10,9 +10,11 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 # Program Schedule
 
 **Day 1: Wednesday, July 14, 2021**
+
 *Full schedule TBD*
 
 **Day 2: Thursday, July 15, 2021**
+
 *Full schedule TBD*
 
 * Interactive workshop for implementing and using OntoloBridge
