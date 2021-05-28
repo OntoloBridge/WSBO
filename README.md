@@ -9,11 +9,11 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 # Program Schedule
 
-**Day 1: Wednesday, July 14, 2021**
+**Day 1: Wednesday, July 14, 2021. 8:00 am EST - 12:00 pm EST**
 
 *Full schedule TBD*
 
-**Day 2: Thursday, July 15, 2021**
+**Day 2: Thursday, July 15, 202. 12:00 pm EST - 4:00 pm EST**
 
 *Full schedule TBD*
 
