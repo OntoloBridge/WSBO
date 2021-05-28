@@ -30,6 +30,7 @@ Presentations may fall into any of the following categories
 * End-user interaction with ontologies
 * Ontology mapping
 * Tools, technologies, and repositories supporting ontologies
+* Ontology software or web ecosystems (e.g.: BioPortal, Protege, OntoAnimal)
 
 # Organizers
 **Workshop Co-organizers:**
