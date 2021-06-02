@@ -23,7 +23,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 Invitations will be sent to those who registered for the workshop.
 
 # Submissions
-We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos.  Submit your abstract here: https://easychair.org/conferences/?conf=wsbo2021
+We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos.  Submit your abstract here: https://easychair.org/conferences/?conf=wsbo2021.  Selected abstracts should prepare a 20-minute slide presentation plus an additional 5-10 minutes for questions and discussion.  
 
 Presentations may fall into any of the following categories
 * Developing and maintaining biomedical ontologies
