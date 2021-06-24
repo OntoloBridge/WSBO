@@ -9,7 +9,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 # Tenative Program Schedule _(subject to change)_
 
-**Day 1: Wednesday, July 14, 2021. 8:00 am ET - 12:00 pm ET**
+# **Day 1: Wednesday, July 14, 2021. 8:00 am ET - 12:00 pm ET**
 
 **8:00-8:20 am ET:** Opening Remarks with Stephan Schürer 
 **8:20-9:00 am ET: Keynote Presentation, Melissa Haendel,** _TBD_
@@ -26,7 +26,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 **11:20-11:50 am ET: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
 
 
-**Day 2: Thursday, July 15, 2021. 12:00 pm ET - 4:00 pm ET**
+# **Day 2: Thursday, July 15, 2021. 12:00 pm ET - 4:00 pm ET**
 
 **12:00-12:20 pm ET:** Opening Remarks with Mark Musen
 **12:20-1:00 pm ET: Keynote Presentation, Lucila Ohno-Machado,** _TBD_
@@ -44,7 +44,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 **3:40-4:10 pm ET: Breakout Session**. Asiyah Lin. _Integrating online ontology tools._ 
 
 
-**BONUS Day 3: Friday, July 16, 2021. 9:00 am ET - 11:00 am ET**
+# **BONUS Day 3: Friday, July 16, 2021. 9:00 am ET - 11:00 am ET**
 * Pespectives from the conference and breakout sessions (Roundtable)
 * Next Steps
 * Conference Feedback
