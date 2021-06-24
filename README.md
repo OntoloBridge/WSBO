@@ -35,7 +35,7 @@ _(subject to change)_
 **11:20-11:50 am ET: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
 
 
-# **Day 2: Thursday, July 15, 2021. 12:00 pm ET - 4:00 pm ET**
+# **Day 2: Thursday, July 15, 2021. 12:00 pm ET - 4:10 pm ET**
 
 **12:00-12:20 pm ET:** Opening Remarks with Mark Musen
 
