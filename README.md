@@ -63,7 +63,7 @@ _(subject to change)_
 
 
 
-# **BONUS Day 3: Friday, July 16, 2021. 9:00 am ET - 11:00 am ET**
+# **BONUS Day 3: Friday, July 16, 2021. 11:00 am ET - 1:00 pm ET**
 * Pespectives from the conference and breakout sessions (Roundtable)
 * Next Steps
 * Conference Feedback
@@ -72,7 +72,7 @@ _(subject to change)_
 Invitations will be sent to those who registered for the workshop.
 
 # Submissions
-We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos.  Submit your abstract here: https://easychair.org/conferences/?conf=wsbo2021.   **(CLOSED)**
+We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos.  Submit your abstract here: https://easychair.org/conferences/?conf=wsbo2021.  
 
 Selected abstracts will give a presentation not to exceed 15 minutes plus an additional 5 minutes for audience questions (for a total of 20 minutes). 
 
