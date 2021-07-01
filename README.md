@@ -31,7 +31,7 @@ _(subject to change)_
 
 **11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._
 
-**11:20-11:50 am ET: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
+**11:20-11:50 am EDT: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
 
 
 # **Day 2: Thursday, July 15, 2021. 12:00 pm ET - 4:10 pm ET**
@@ -56,7 +56,7 @@ _(subject to change)_
 
 **3:20-3:40 pm EDT:** Samantha Jeschonek. _BioHarmony Annotator: Perspectives from the Data FAIRy Initiative_
 
-**3:40-4:10 pm ET: Breakout Session**. Asiyah Lin. _Integrating online ontology tools._ 
+**3:40-4:10 pm EDT: Breakout Session**. Asiyah Lin. _Integrating online ontology tools._ 
 
 
 # **Day 3: Friday, July 16, 2021. 11:00 am EDT - 1:00 pm EDT**
