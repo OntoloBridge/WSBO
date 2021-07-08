@@ -7,15 +7,13 @@ Ontologies are standardized, formal vocabularies developed by domain experts, ty
 # Registration
 Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-synergizing-biomedical-ontologies-wsbo-tickets-149242142265
 
-# Tenative Program Schedule 
-_(subject to change)_
-
+# Finalized Program Schedule 
 
 # **Day 1: Wednesday, July 14, 2021. 8:00 am EDT - 12:00 pm EDT**
 
-**8:00-8:20 am EDT:** Opening Remarks with Stephan Schürer 
+**8:00-8:20 am EDT:** Welcome & Opening Remarks with Stephan Schürer 
 
-**8:20-8:40 am EDT:** Martin Romacker. _TBD_
+**8:20-8:40 am EDT:** Martin Romacker. _Synergizing Biomedical Ontologies – An Industry Perspective_
 
 **8:40-9:00 am EDT:** David Osumi-Sutherland, Nicolas Matentzoglu, James McLaughlin, Henriette Harmse, Susan Bello, Nicole Vasilevsky, James Balhoff, Christopher Mungall, Melissa Haendel and Helen Parkinson. _Ontology mappings - untangling the hairball and democratising the results_
 
@@ -50,28 +48,28 @@ _(subject to change)_
 
 **2:20-2:40 pm EDT:** James Balhoff and Christopher Mungall. _Resolving ontology mappings using Boomer._
 
-**2:40-3:00 pm EDT:** Oliver He. _TBD_
+**2:40-3:00 pm EDT:** Oliver He. _Development and maintenance of the interoperable and synergistic Cell Line Ontology_
 
 **3:00-3:20 pm EDT:** Asiyah Lin, Alex Welsch and Lawrence Callahan. _What End Users Need from Ontology Community? - Experience from NCPI, FDA, and COVID-19 Ontologies Harmonization effort._
 
-**3:20-3:40 pm EDT:** Samantha Jeschonek. _BioHarmony Annotator: Perspectives from the Data FAIRy Initiative_
+**3:20-3:40 pm EDT:** Samantha Jeschonek. _CDD Annotator and Perspectives from the Data FAIRy Initiative_
 
 **3:40-4:10 pm EDT: Breakout Session**. Asiyah Lin. _Integrating online ontology tools._ 
 
 
 # **Day 3: Friday, July 16, 2021. 11:00 am EDT - 1:00 pm EDT**
 
-**11:00-11:10 am EDT:** Opening Remarks with Asiyah Lin.
+**11:00-11:10 am EDT:** Opening Remarks with Hande Kucuk McGinty.
 
 **11:10-11:25 am EDT:** Rebecca Jackson. _Automating Ontology Mapping Workflows With ROBOT_
 
 **11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_
 
-**11:30-11:50 am EDT:** Hande Kucuk McGinty. _TBD_
+**11:30-11:50 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_
 
-**11:50-12:20 pm EDT:** Sheryl Denker and Antal Berenyi. _TBD_
+**11:50-12:20 pm EDT:** Sheryl Denker and Antal Berenyi. _Describing the Need: An Ontology End-User Case Study_
 
-**12:20-12:30 pm EDT:** Whitney Smith. _TBD_
+**12:20-12:30 pm EDT:** Whitney Smith. _Collaborative Drug Discovery – Supporting the Future of FAIR Data Management_
 
 **12:30-12:45 pm EDT:** Closing Remarks with Stephan Schürer and Mark Musen
 
