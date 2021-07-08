@@ -78,6 +78,13 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 # Venue: Online (Zoom)
 Invitations will be sent to those who registered for the workshop.
+ 
+Join Zoom Meeting
+https://cddvault.zoom.us/j/85743310822?pwd=bjR3RThVQUgrczhlYjk3bFJ3R0dmdz09
+
+Meeting ID: 857 4331 0822
+Passcode: 822481
+ 
 
 # Submissions (CLOSED)
 We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos.  Submit your abstract here: https://easychair.org/conferences/?conf=wsbo2021.  
