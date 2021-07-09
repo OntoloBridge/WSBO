@@ -36,7 +36,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 **12:00-12:20 pm EDT:** Opening Remarks with Mark Musen
 
-**12:20-1:00 pm EDT: Keynote Presentation, Lucila Ohno-Machado,** _TBD_
+**12:20-1:00 pm EDT: Keynote Presentation, Lucila Ohno-Machado,** _FAIRness and fairness in sharing data from study participants and patients_
 
 **1:00-1:20 pm EDT:** Susan Bello, Nicole Vasilevsky, Nicolas Matentzoglu, David Osumi-Sutherland and The Upheno Team. _Bridging the Phenotype Divide by Using Shared Patterns._
 
