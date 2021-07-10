@@ -23,7 +23,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 **Break: 20 minutes**
 
-**10:00-10:40 am EDT: Keynote Presentation, Melissa Haendel,** _TBD_
+**10:00-10:40 am EDT: Keynote Presentation, Melissa Haendel,** _The dangers of bad mappings: How imprecise and incomplete mappings can cost lives!_
 
 **10:40-11:00 am EDT:** Darren Natale. _Towards automating the ontological representation of proteins in the Protein Ontology._
 
@@ -42,7 +42,7 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 **1:20-1:40 pm EDT:** Christopher Mungall. _Synergizing Biomedical Ontologies with Genomics Databases._
 
-**1:40-2:00 pm EDT:** John Turner. _OntoloBridge_
+**1:40-2:00 pm EDT:** John Turner. _OntoloBridge: Connecting Ontology Users and Ontology Maintainers!_
 
 **Break: 20 minutes**
 
