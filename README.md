@@ -8,6 +8,8 @@ Ontologies are standardized, formal vocabularies developed by domain experts, ty
 Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-synergizing-biomedical-ontologies-wsbo-tickets-149242142265
 
 # Finalized Program Schedule 
+_Abstracts are now available in our downloadable Workshop Booklet: https://github.com/OntoloBridge/WSBO/raw/main/WSBO2021-Abstract-Book.pdf_
+
 
 # **Day 1: Wednesday, July 14, 2021. 8:00 am EDT - 12:00 pm EDT**
 
@@ -65,7 +67,9 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 **11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_
 
-**11:30-11:50 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_
+**11:30-11:40 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_
+
+**11:40-11:50 am EDT:** Damion Dooley. _OBO Foundry Domain Coverage for Food, One Health, and Holistic Healthcare_
 
 **11:50-12:20 pm EDT:** Sheryl Denker and Antal Berenyi. _Describing the Need: An Ontology End-User Case Study_
 
@@ -77,7 +81,6 @@ Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-syn
 
 
 # Venue: Online (Zoom)
-Invitations will be sent to those who registered for the workshop.
  
 Join Zoom Meeting
 https://cddvault.zoom.us/j/85743310822?pwd=bjR3RThVQUgrczhlYjk3bFJ3R0dmdz09
