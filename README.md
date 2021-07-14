@@ -7,6 +7,9 @@ Ontologies are standardized, formal vocabularies developed by domain experts, ty
 # Registration
 Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-synergizing-biomedical-ontologies-wsbo-tickets-149242142265
 
+# Public Google Doc for Questions & Followup Discussion:
+https://docs.google.com/document/d/1OHUc3EAUGrztf29LHrf8i8YvG4mh5SJC1Z6hlpZOdPk/edit#heading=h.6b3y7eisj5wt
+
 # Finalized Program Schedule 
 _Abstracts are now available in our downloadable Workshop Booklet: https://github.com/OntoloBridge/WSBO/raw/main/WSBO2021-Abstract-Book.pdf_
 
