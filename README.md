@@ -108,7 +108,7 @@ Presentations may fall into any of the following categories
 **Workshop Co-organizers:**
 * Samantha Jeschonek (Collaborative Drug Discovery)
 * Asiyah Yu Lin (National Institutes of Health)
-* Hande Kucuk McGinty (University of Ohio)
+* Hande Kucuk McGinty (Ohio University)
 
 **Workshop Co-chairs**
 * Stephan Schürer (University of Miami)
