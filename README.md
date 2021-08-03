@@ -52,13 +52,13 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **Break: 20 minutes**
 
-**2:20-2:40 pm EDT:** James Balhoff and Christopher Mungall. _Resolving ontology mappings using Boomer._
+**2:20-2:40 pm EDT:** James Balhoff and Christopher Mungall. _Resolving ontology mappings using Boomer._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/13.JamesBalhoff_Resolving%20ontology%20mappings%20using%20Boomer.pdf), [recording](https://www.youtube.com/watch?v=_U2BCipCtFs&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=13)]
 
-**2:40-3:00 pm EDT:** Oliver He. _Development and maintenance of the interoperable and synergistic Cell Line Ontology_
+**2:40-3:00 pm EDT:** Oliver He. _Development and maintenance of the interoperable and synergistic Cell Line Ontology_ [[recording](https://www.youtube.com/watch?v=-c_1l-DbB9w&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=14)]
 
-**3:00-3:20 pm EDT:** Asiyah Lin, Alex Welsch and Lawrence Callahan. _What End Users Need from Ontology Community? - Experience from NCPI, FDA, and COVID-19 Ontologies Harmonization effort._
+**3:00-3:20 pm EDT:** Asiyah Lin, Alex Welsch and Lawrence Callahan. _What End Users Need from the Ontology Community? - Experience from NCPI, FDA, and COVID-19 Ontologies Harmonization effort._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/15.AsiyahLin-What%20End%20Users%20Need%20from%20Ontology%20Community.pdf), [recording](https://www.youtube.com/watch?v=vtO94LBLIwA&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=15)]
 
-**3:20-3:40 pm EDT:** Samantha Jeschonek. _CDD Annotator and Perspectives from the Data FAIRy Initiative_
+**3:20-3:40 pm EDT:** Samantha Jeschonek. _CDD Annotator and Perspectives from the Data FAIRy Initiative_ [[recording](https://www.youtube.com/watch?v=Jmkfoqc3wkU&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=16)]
 
 **3:40-4:10 pm EDT: Breakout Session**. Asiyah Lin. _Integrating online ontology tools._ 
 
@@ -67,13 +67,13 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **11:00-11:10 am EDT:** Opening Remarks with Hande Kucuk McGinty.
 
-**11:10-11:25 am EDT:** Rebecca Jackson. _Automating Ontology Mapping Workflows With ROBOT_
+**11:10-11:25 am EDT:** Rebecca Jackson. _Automating Ontology Mapping Workflows With ROBOT_ [[recording](https://www.youtube.com/watch?v=ARh5y4Lffu4&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=17)]
 
-**11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_
+**11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_ [[slides](), [recording](https://www.youtube.com/watch?v=Rk_VDBCTiRY&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=18)]
 
-**11:30-11:40 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_
+**11:30-11:40 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_ [[recording](https://www.youtube.com/watch?v=kHD0lwGZ9k0&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=19)]
 
-**11:40-11:50 am EDT:** Damion Dooley. _OBO Foundry Domain Coverage for Food, One Health, and Holistic Healthcare_
+**11:40-11:50 am EDT:** Damion Dooley. _OBO Foundry Domain Coverage for Food, One Health, and Holistic Healthcare_ [[recording](https://www.youtube.com/watch?v=XgXOcaMtwZA&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=20)]
 
 **11:50-12:20 pm EDT:** Sheryl Denker and Antal Berenyi. _Describing the Need: An Ontology End-User Case Study_
 
