@@ -23,17 +23,17 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **8:40-9:00 am EDT:** David Osumi-Sutherland, Nicolas Matentzoglu, James McLaughlin, Henriette Harmse, Susan Bello, Nicole Vasilevsky, James Balhoff, Christopher Mungall, Melissa Haendel and Helen Parkinson. _Ontology mappings - untangling the hairball and democratising the results_ [[recording](https://www.youtube.com/watch?v=yPa7N7my6v8&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=3)]
 
-**9:00-9:20 am EDT:** Ernesto Jimenez-Ruiz, Thomas Liener and Ian Harrow. _Matching life sciences ontologies in the Ontology Alignment Evaluation Initiative._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/3.JimenezRuiz-WSBO_2021_OAEI_ErnestoJR.pdf) [recording](https://www.youtube.com/watch?v=iiLoQs03dY8&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=4)]
+**9:00-9:20 am EDT:** Ernesto Jimenez-Ruiz, Thomas Liener and Ian Harrow. _Matching life sciences ontologies in the Ontology Alignment Evaluation Initiative._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/3.JimenezRuiz-WSBO_2021_OAEI_ErnestoJR.pdf), [recording](https://www.youtube.com/watch?v=iiLoQs03dY8&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=4)]
 
-**9:20-9:40 am EDT:** Lynn Schriml. _FAIRifying biomedical ontology synergy._
+**9:20-9:40 am EDT:** Lynn Schriml. _FAIRifying biomedical ontology synergy._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/4.Schriml-DO_WSBO_July_2021.pptx.pdf), [recording](https://www.youtube.com/watch?v=zvhXuzEOnmk&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=5)]
 
 **Break: 20 minutes**
 
-**10:00-10:40 am EDT: Keynote Presentation, Melissa Haendel,** _The dangers of bad mappings: How imprecise and incomplete mappings can cost lives!_
+**10:00-10:40 am EDT: Keynote Presentation, Melissa Haendel,** _The dangers of bad mappings: How imprecise and incomplete mappings can cost lives!_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/WSBO_keynote_MelissaHaendel_7.14.2021.pdf), [recording](https://www.youtube.com/watch?v=QM5aR0mDPWU&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=6)]
 
-**10:40-11:00 am EDT:** Darren Natale. _Towards automating the ontological representation of proteins in the Protein Ontology._
+**10:40-11:00 am EDT:** Darren Natale. _Towards automating the ontological representation of proteins in the Protein Ontology._ [[recording](https://www.youtube.com/watch?v=VslZYusY1GA&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=7)]
 
-**11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._
+**11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._ [[slieds](https://github.com/OntoloBridge/WSBO/blob/main/slides/8.NicoMatentzoglu_%20A%20Simple%20Standard%20for%20Sharing%20Ontology%20Mappings.pdf),[recording](https://www.youtube.com/watch?v=lgVqFeSxYbg&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=8)]
 
 **11:20-11:50 am EDT: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
 
@@ -42,13 +42,13 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **12:00-12:20 pm EDT:** Opening Remarks with Mark Musen
 
-**12:20-1:00 pm EDT: Keynote Presentation, Lucila Ohno-Machado,** _FAIRness and fairness in sharing data from study participants and patients_
+**12:20-1:00 pm EDT: Keynote Presentation, Lucila Ohno-Machado,** _FAIRness and fairness in sharing data from study participants and patients_ [[recording](https://www.youtube.com/watch?v=wFYVE5z5KDs&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=9)]
 
-**1:00-1:20 pm EDT:** Susan Bello, Nicole Vasilevsky, Nicolas Matentzoglu, David Osumi-Sutherland and The Upheno Team. _Bridging the Phenotype Divide by Using Shared Patterns._
+**1:00-1:20 pm EDT:** Susan Bello, Nicole Vasilevsky, Nicolas Matentzoglu, David Osumi-Sutherland and The Upheno Team. _Bridging the Phenotype Divide by Using Shared Patterns._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/10.SusanBello_Bridging%20the%20Phenotype%20Divide%20by%20Using%20Shared%20Patterns.pptx.pdf), [recording](https://www.youtube.com/watch?v=L9Vfoxy1_2I&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=10)]
 
-**1:20-1:40 pm EDT:** Christopher Mungall. _Synergizing Biomedical Ontologies with Genomics Databases._
+**1:20-1:40 pm EDT:** Christopher Mungall. _Synergizing Biomedical Ontologies with Genomics Databases._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/11.ChrisMungall_Synergizing%20Biomedical%20Ontologies%20with%20Genomics%20Databases_%20WSBO%202021.pdf), [recording](https://www.youtube.com/watch?v=FyjhofnCr4g&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=11)]
 
-**1:40-2:00 pm EDT:** John Turner. _OntoloBridge: Connecting Ontology Users and Ontology Maintainers!_
+**1:40-2:00 pm EDT:** John Turner. _OntoloBridge: Connecting Ontology Users and Ontology Maintainers!_ [[recording](https://www.youtube.com/watch?v=aZcPm21VNNw&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=12)]
 
 **Break: 20 minutes**
 
