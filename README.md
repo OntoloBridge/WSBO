@@ -19,7 +19,7 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **8:00-8:20 am EDT:** Welcome & Opening Remarks with Stephan Schürer 
 
-**8:20-8:40 am EDT:** Martin Romacker. _Synergizing Biomedical Ontologies – An Industry Perspective_
+**8:20-8:40 am EDT:** Martin Romacker. _Synergizing Biomedical Ontologies – An Industry Perspective_ [slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/1.Romacker-WSBORomacker20210714.pdf) [recording](https://www.youtube.com/watch?v=FHqUEChGjLg&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=2)
 
 **8:40-9:00 am EDT:** David Osumi-Sutherland, Nicolas Matentzoglu, James McLaughlin, Henriette Harmse, Susan Bello, Nicole Vasilevsky, James Balhoff, Christopher Mungall, Melissa Haendel and Helen Parkinson. _Ontology mappings - untangling the hairball and democratising the results_
 
