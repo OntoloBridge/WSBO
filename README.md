@@ -4,8 +4,9 @@
 # Annoucement
 Ontologies are standardized, formal vocabularies developed by domain experts, typically in collaboration with ontologists. In the era of big data and AI, they enable finding, accessing, interoperating and reusing datasets and other digital research objects, in other words, making data F.A.I.R. As more communities develop ontologies to meet their specific needs, it is critical that we maintain synergy with existing ontologies, especially reference ontologies. Similar, but unreferenced terms create ambiguities that complicate implementation of the very F.A.I.R. principles ontologies seek to support. The biomedical field is especially rich with similar ontologies, including BAO and OBI, MONDO and DOID, DTO and PR, CLO and BRENDA, UBERON and FMA, and others. Extensive mapping efforts are often required to maintain associations between these ontologies, making integration expensive and cumbersome. No formal process has been established for collaboratively converging and actively maintaining synergy between ontologies. The goal of this meeting is to stimulate conversation around the best practices for synergizing ontologies, with an emphasis on collaborative development and dynamic workflows. 
 
-# Registration
-Please register using EventBrite: https://www.eventbrite.co.uk/e/workshop-on-synergizing-biomedical-ontologies-wsbo-tickets-149242142265
+
+# Presentation Recordings now available!:
+https://youtube.com/playlist?list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF
 
 # Public Google Doc for Questions & Followup Discussion:
 https://docs.google.com/document/d/1OHUc3EAUGrztf29LHrf8i8YvG4mh5SJC1Z6hlpZOdPk/edit#heading=h.6b3y7eisj5wt
