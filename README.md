@@ -17,7 +17,7 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 # **Day 1: Wednesday, July 14, 2021. 8:00 am EDT - 12:00 pm EDT**
 
-**8:00-8:20 am EDT:** Welcome & Opening Remarks with Stephan Schürer [[recording](https://youtu.be/U7U9CTQ6O9M)]
+**8:00-8:20 am EDT:** Welcome & Opening Remarks with Stephan Schürer [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/0.Schurer-WSBO_Intro_Jul142021.pdf), [recording](https://youtu.be/U7U9CTQ6O9M)]
 
 **8:20-8:40 am EDT:** Martin Romacker. _Synergizing Biomedical Ontologies – An Industry Perspective_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/1.Romacker-WSBORomacker20210714.pdf), [recording](https://youtu.be/FHqUEChGjLg)]
 
