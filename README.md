@@ -69,7 +69,7 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **11:10-11:25 am EDT:** Rebecca Jackson. _Automating Ontology Mapping Workflows With ROBOT_ [[recording](https://youtu.be/ARh5y4Lffu4)]
 
-**11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_ [[slides](), [recording](https://youtu.be/Rk_VDBCTiRY)]
+**11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/18.KaiBlumberg-WSBO_units.pptx.pdf), [recording](https://youtu.be/Rk_VDBCTiRY)]
 
 **11:30-11:40 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_ [[recording](https://youtu.be/kHD0lwGZ9k0)]
 
