@@ -17,69 +17,69 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 # **Day 1: Wednesday, July 14, 2021. 8:00 am EDT - 12:00 pm EDT**
 
-**8:00-8:20 am EDT:** Welcome & Opening Remarks with Stephan Schürer 
+**8:00-8:20 am EDT:** Welcome & Opening Remarks with Stephan Schürer [[recording](https://youtu.be/U7U9CTQ6O9M)]
 
-**8:20-8:40 am EDT:** Martin Romacker. _Synergizing Biomedical Ontologies – An Industry Perspective_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/1.Romacker-WSBORomacker20210714.pdf), [recording](https://www.youtube.com/watch?v=FHqUEChGjLg&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=2)]
+**8:20-8:40 am EDT:** Martin Romacker. _Synergizing Biomedical Ontologies – An Industry Perspective_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/1.Romacker-WSBORomacker20210714.pdf), [recording](https://youtu.be/FHqUEChGjLg)]
 
-**8:40-9:00 am EDT:** David Osumi-Sutherland, Nicolas Matentzoglu, James McLaughlin, Henriette Harmse, Susan Bello, Nicole Vasilevsky, James Balhoff, Christopher Mungall, Melissa Haendel and Helen Parkinson. _Ontology mappings - untangling the hairball and democratising the results_ [[recording](https://www.youtube.com/watch?v=yPa7N7my6v8&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=3)]
+**8:40-9:00 am EDT:** David Osumi-Sutherland, Nicolas Matentzoglu, James McLaughlin, Henriette Harmse, Susan Bello, Nicole Vasilevsky, James Balhoff, Christopher Mungall, Melissa Haendel and Helen Parkinson. _Ontology mappings - untangling the hairball and democratising the results_ [[recording](https://youtu.be/z4FJkQ3Douo)]
 
-**9:00-9:20 am EDT:** Ernesto Jimenez-Ruiz, Thomas Liener and Ian Harrow. _Matching life sciences ontologies in the Ontology Alignment Evaluation Initiative._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/3.JimenezRuiz-WSBO_2021_OAEI_ErnestoJR.pdf), [recording](https://www.youtube.com/watch?v=iiLoQs03dY8&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=4)]
+**9:00-9:20 am EDT:** Ernesto Jimenez-Ruiz, Thomas Liener and Ian Harrow. _Matching life sciences ontologies in the Ontology Alignment Evaluation Initiative._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/3.JimenezRuiz-WSBO_2021_OAEI_ErnestoJR.pdf), [recording](https://youtu.be/iiLoQs03dY8)]
 
-**9:20-9:40 am EDT:** Lynn Schriml. _FAIRifying biomedical ontology synergy._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/4.Schriml-DO_WSBO_July_2021.pptx.pdf), [recording](https://www.youtube.com/watch?v=zvhXuzEOnmk&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=5)]
+**9:20-9:40 am EDT:** Lynn Schriml. _FAIRifying biomedical ontology synergy._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/4.Schriml-DO_WSBO_July_2021.pptx.pdf), [recording](https://youtu.be/zvhXuzEOnmk)]
 
 **Break: 20 minutes**
 
-**10:00-10:40 am EDT: Keynote Presentation, Melissa Haendel,** _The dangers of bad mappings: How imprecise and incomplete mappings can cost lives!_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/WSBO_keynote_MelissaHaendel_7.14.2021.pdf), [recording](https://www.youtube.com/watch?v=QM5aR0mDPWU&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=6)]
+**10:00-10:40 am EDT: Keynote Presentation, Melissa Haendel,** _The dangers of bad mappings: How imprecise and incomplete mappings can cost lives!_ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/WSBO_keynote_MelissaHaendel_7.14.2021.pdf), [recording](https://youtu.be/QM5aR0mDPWU)]
 
-**10:40-11:00 am EDT:** Darren Natale. _Towards automating the ontological representation of proteins in the Protein Ontology._ [[recording](https://www.youtube.com/watch?v=VslZYusY1GA&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=7)]
+**10:40-11:00 am EDT:** Darren Natale. _Towards automating the ontological representation of proteins in the Protein Ontology._ [[recording](https://youtu.be/VslZYusY1GA)]
 
-**11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._ [[slieds](https://github.com/OntoloBridge/WSBO/blob/main/slides/8.NicoMatentzoglu_%20A%20Simple%20Standard%20for%20Sharing%20Ontology%20Mappings.pdf),[recording](https://www.youtube.com/watch?v=lgVqFeSxYbg&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=8)]
+**11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._ [[slieds](https://github.com/OntoloBridge/WSBO/blob/main/slides/8.NicoMatentzoglu_%20A%20Simple%20Standard%20for%20Sharing%20Ontology%20Mappings.pdf),[recording](https://youtu.be/lgVqFeSxYbg)]
 
 **11:20-11:50 am EDT: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
 
 
 # **Day 2: Thursday, July 15, 2021. 12:00 pm ET - 4:10 pm ET**
 
-**12:00-12:20 pm EDT:** Opening Remarks with Mark Musen
+**12:00-12:20 pm EDT:** Opening Remarks with Mark Musen [[recording](https://youtu.be/-tXDkeP7nmw)] 
 
-**12:20-1:00 pm EDT: Keynote Presentation, Lucila Ohno-Machado,** _FAIRness and fairness in sharing data from study participants and patients_ [[recording](https://www.youtube.com/watch?v=wFYVE5z5KDs&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=9)]
+**12:20-1:00 pm EDT: Keynote Presentation, Lucila Ohno-Machado,** _FAIRness and fairness in sharing data from study participants and patients_ [[recording](https://youtu.be/wFYVE5z5KDs)]
 
-**1:00-1:20 pm EDT:** Susan Bello, Nicole Vasilevsky, Nicolas Matentzoglu, David Osumi-Sutherland and The Upheno Team. _Bridging the Phenotype Divide by Using Shared Patterns._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/10.SusanBello_Bridging%20the%20Phenotype%20Divide%20by%20Using%20Shared%20Patterns.pptx.pdf), [recording](https://www.youtube.com/watch?v=L9Vfoxy1_2I&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=10)]
+**1:00-1:20 pm EDT:** Susan Bello, Nicole Vasilevsky, Nicolas Matentzoglu, David Osumi-Sutherland and The Upheno Team. _Bridging the Phenotype Divide by Using Shared Patterns._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/10.SusanBello_Bridging%20the%20Phenotype%20Divide%20by%20Using%20Shared%20Patterns.pptx.pdf), [recording](https://youtu.be/L9Vfoxy1_2I)]
 
-**1:20-1:40 pm EDT:** Christopher Mungall. _Synergizing Biomedical Ontologies with Genomics Databases._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/11.ChrisMungall_Synergizing%20Biomedical%20Ontologies%20with%20Genomics%20Databases_%20WSBO%202021.pdf), [recording](https://www.youtube.com/watch?v=FyjhofnCr4g&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=11)]
+**1:20-1:40 pm EDT:** Christopher Mungall. _Synergizing Biomedical Ontologies with Genomics Databases._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/11.ChrisMungall_Synergizing%20Biomedical%20Ontologies%20with%20Genomics%20Databases_%20WSBO%202021.pdf), [recording](https://youtu.be/FyjhofnCr4g)]
 
-**1:40-2:00 pm EDT:** John Turner. _OntoloBridge: Connecting Ontology Users and Ontology Maintainers!_ [[recording](https://www.youtube.com/watch?v=aZcPm21VNNw&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=12)]
+**1:40-2:00 pm EDT:** John Turner. _OntoloBridge: Connecting Ontology Users and Ontology Maintainers!_ [[recording](https://youtu.be/aZcPm21VNNw)]
 
 **Break: 20 minutes**
 
-**2:20-2:40 pm EDT:** James Balhoff and Christopher Mungall. _Resolving ontology mappings using Boomer._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/13.JamesBalhoff_Resolving%20ontology%20mappings%20using%20Boomer.pdf), [recording](https://www.youtube.com/watch?v=_U2BCipCtFs&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=13)]
+**2:20-2:40 pm EDT:** James Balhoff and Christopher Mungall. _Resolving ontology mappings using Boomer._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/13.JamesBalhoff_Resolving%20ontology%20mappings%20using%20Boomer.pdf), [recording](https://youtu.be/_U2BCipCtFs)]
 
-**2:40-3:00 pm EDT:** Oliver He. _Development and maintenance of the interoperable and synergistic Cell Line Ontology_ [[recording](https://www.youtube.com/watch?v=-c_1l-DbB9w&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=14)]
+**2:40-3:00 pm EDT:** Oliver He. _Development and maintenance of the interoperable and synergistic Cell Line Ontology_ [[recording](https://youtu.be/-c_1l-DbB9w)]
 
-**3:00-3:20 pm EDT:** Asiyah Lin, Alex Welsch and Lawrence Callahan. _What End Users Need from the Ontology Community? - Experience from NCPI, FDA, and COVID-19 Ontologies Harmonization effort._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/15.AsiyahLin-What%20End%20Users%20Need%20from%20Ontology%20Community.pdf), [recording](https://www.youtube.com/watch?v=vtO94LBLIwA&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=15)]
+**3:00-3:20 pm EDT:** Asiyah Lin, Alex Welsch and Lawrence Callahan. _What End Users Need from the Ontology Community? - Experience from NCPI, FDA, and COVID-19 Ontologies Harmonization effort._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/15.AsiyahLin-What%20End%20Users%20Need%20from%20Ontology%20Community.pdf), [recording](https://youtu.be/vtO94LBLIwA)]
 
-**3:20-3:40 pm EDT:** Samantha Jeschonek. _CDD Annotator and Perspectives from the Data FAIRy Initiative_ [[recording](https://www.youtube.com/watch?v=Jmkfoqc3wkU&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=16)]
+**3:20-3:40 pm EDT:** Samantha Jeschonek. _CDD Annotator and Perspectives from the Data FAIRy Initiative_ [[recording](https://youtu.be/Jmkfoqc3wkU)]
 
 **3:40-4:10 pm EDT: Breakout Session**. Asiyah Lin. _Integrating online ontology tools._ 
 
 
 # **Day 3: Friday, July 16, 2021. 11:00 am EDT - 1:00 pm EDT**
 
-**11:00-11:10 am EDT:** Opening Remarks with Hande Kucuk McGinty.
+**11:00-11:10 am EDT:** Opening Remarks with Hande Kucuk McGinty. [[recording](https://youtu.be/BCZRQRnlAAM)]
 
-**11:10-11:25 am EDT:** Rebecca Jackson. _Automating Ontology Mapping Workflows With ROBOT_ [[recording](https://www.youtube.com/watch?v=ARh5y4Lffu4&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=17)]
+**11:10-11:25 am EDT:** Rebecca Jackson. _Automating Ontology Mapping Workflows With ROBOT_ [[recording](https://youtu.be/ARh5y4Lffu4)]
 
-**11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_ [[slides](), [recording](https://www.youtube.com/watch?v=Rk_VDBCTiRY&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=18)]
+**11:25-11:30 am EDT:** Kai Blumberg. _Harmonizing Units of Measure Vocabularies on the Web: a Basic Prototype_ [[slides](), [recording](https://youtu.be/Rk_VDBCTiRY)]
 
-**11:30-11:40 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_ [[recording](https://www.youtube.com/watch?v=kHD0lwGZ9k0&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=19)]
+**11:30-11:40 am EDT:** Hande Kucuk McGinty. _Thinking about the Future: Ontologies for Whole-Person and Holistic-Healthcare Research_ [[recording](https://youtu.be/kHD0lwGZ9k0)]
 
-**11:40-11:50 am EDT:** Damion Dooley. _OBO Foundry Domain Coverage for Food, One Health, and Holistic Healthcare_ [[recording](https://www.youtube.com/watch?v=XgXOcaMtwZA&list=PLhzFEi0G-n-v6IIpOXdNGN9yvRsWF0hpF&index=20)]
+**11:40-11:50 am EDT:** Damion Dooley. _OBO Foundry Domain Coverage for Food, One Health, and Holistic Healthcare_ [[recording](https://youtu.be/XgXOcaMtwZA)]
 
-**11:50-12:20 pm EDT:** Sheryl Denker and Antal Berenyi. _Describing the Need: An Ontology End-User Case Study_
+**11:50-12:20 pm EDT:** Sheryl Denker and Antal Berenyi. _Describing the Need: An Ontology End-User Case Study_ [[recording](https://youtu.be/nDeoTfbzUU0)]
 
-**12:20-12:30 pm EDT:** Whitney Smith. _Collaborative Drug Discovery – Supporting the Future of FAIR Data Management_
+**12:20-12:30 pm EDT:** Whitney Smith. _Collaborative Drug Discovery – Supporting the Future of FAIR Data Management_ [[recording](https://youtu.be/rnD34jvmt58)]
 
-**12:30-12:45 pm EDT:** Closing Remarks with Stephan Schürer and Mark Musen
+**12:30-12:45 pm EDT:** Closing Remarks with Stephan Schürer and Mark Musen [[recording](https://youtu.be/HAd0wZwarrI)]
 
 **12:45-1:00 pm EDT:** (Optional) Conference Feedback
 
