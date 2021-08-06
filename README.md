@@ -33,7 +33,7 @@ _Abstracts are now available in our downloadable Workshop Booklet: https://githu
 
 **10:40-11:00 am EDT:** Darren Natale. _Towards automating the ontological representation of proteins in the Protein Ontology._ [[recording](https://youtu.be/VslZYusY1GA)]
 
-**11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._ [[slieds](https://github.com/OntoloBridge/WSBO/blob/main/slides/8.NicoMatentzoglu_%20A%20Simple%20Standard%20for%20Sharing%20Ontology%20Mappings.pdf),[recording](https://youtu.be/lgVqFeSxYbg)]
+**11:00-11:20 am EDT:** Nicolas Matentzoglu. _A Simple Standard for Sharing Ontology Mappings (SSSOM)._ [[slides](https://github.com/OntoloBridge/WSBO/blob/main/slides/8.NicoMatentzoglu_%20A%20Simple%20Standard%20for%20Sharing%20Ontology%20Mappings.pdf),[recording](https://youtu.be/lgVqFeSxYbg)]
 
 **11:20-11:50 am EDT: Breakout Session**. Stephan Schürer. _Needs for synergization in the biomedical ontology community._ 
 
